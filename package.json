@@ -1,0 +1,12 @@
+{
+    "name": "2",
+    "description": "2",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_USER-20161220DH.json",
+            "credentialsFile": "flows_USER-20161220DH_cred.json"
+        }
+    }
+}
